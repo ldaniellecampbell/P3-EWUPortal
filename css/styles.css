@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+.button,
+.button a:link {
+	background: #666;
+	color: white;
+}
+
+p a:link {
+		text-decoration: none;
+		color: #666
+}
+
+h6 a:link {
+	color:#C30;	
+}
+
+div p span {
+	font-style: italic;
+	color: #C00;	
+}
+
+.section {
+	background: #C30;	
+	padding: 20px;
+}
+
+.section .button {
+	background-color: white;	
+}
+
+.section .button {
+	color:#666;
+		
+}
+
+tbody {
+	background-color: #C30;	
+}
+
+th {
+	background-color: #B22400;
+}
+
+a:link,
+a:visited {
+	color: black;	
+}
